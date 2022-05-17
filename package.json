@@ -1,0 +1,18 @@
+{
+  "name": "l3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts" : {
+    "start" : "node app.js",
+    "dev" : "node app.js Tom 2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+
+  }
+
+}
